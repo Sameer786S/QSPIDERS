@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* css documen */
+ <style>
+ #headArea{
+     width: 900px;
+     height: 75px;
+     background-image: url("qspiders_logo.jpg");
+     padding-left: 50px;
+     padding-top: 14px;
+    
+ 
+ }
+ #sideArea{
+     width: 300px;
+     float: left;
+     padding: 20px; 
+    /* background-color: grey; */
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     font-size: 20px;
+ 
+ }
+ #sideArea a:hover{
+     text-decoration: none;
+     color: rgb(24, 21, 20);
+
+
+ }
+ #textArea{
+     width: 600px;
+     float: left;
+     padding: 20px;
+     
+
+ }
+ #footArea{
+     width: 900px;
+     height: 40px;
+     background-color: cadetblue;
+     padding: 5px;
+ }
+ .clear{
+     clear: both;
+ }
+ body{
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+ }
+ h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold; 
+ }
+
+
+</style>
+
